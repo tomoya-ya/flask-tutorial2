@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iniad-sinage",
+  "private_key_id": "8a6647ee682fd4d8b5508914627b469ce7f0315a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAiio/NcYlllSY\n7VugoYp7C6v3m/GQh5AKhWDSO+Xar/wY20KZuvFuCliCdU1YHVLP9fFwUjqU8ZBK\ngfrcQJg4txN6Dwt7UeC6uNsNX31l1lBRQrxtKTaHj1rvmdykHp9hYUKaTgtk9Kgb\nAwhqbJbB+V5fxrEPBSxDZvNpSPgOkoYwxRvzhFHsX5Wvmgl9yz3u7BqOv8/E1rOY\n2S8rRKNONTiGdG20muC9Uvt5MmRSKJu7ccCacHxHLOkZoBGS6gnsepEdup9vWLVQ\nUhiM05wHyPWSbB4xQ8SwPJRkjqpmBoS4vgmke2YIid8kHpJTi/bVyXJT4Q/prAvX\niWAX35vpAgMBAAECggEACtRqqmoFpm0VfpGRPxB/B8tBBbknhfveCf11E/YrCFkw\nOpywmxGFDW23C0V6T3u8wfZBOZJieai5tzsm51cZyMzhY1Lv0CSrmY0WwyKNHNqI\nY323uAMirk7NrF7w5mlTiShtlNzRbsEFKJnL0iKf+zKh0IzOPjxKAFOM2u3wB++0\nc09QyZfOgrQXk5HK5P0y8Vepfa2uEHc+UxfvBIfjIlP2mBMfAfllLASsZjLNIajk\nwBTS6Uj48mni15Era18kt9bI2021FXxcrvbMvoR+CQlkahkvwr4+3xNQKk1VxdbB\nPkWQ+/3xiu6fUe4dFaAQHEkOR4cSpgiWeJfTr7DaoQKBgQDeaXtR0yrb7VcHCd/2\nPhQ/qEoQJDk3cPZob4N2jHvas3f59C7+ZkoEFmGXiDXSIC14y+gI3bOiI0zNl1y9\nqryq4f7UxcaxDO3K5wkFbFeb/6Bw6mL/L7PauM8btQVBf/I48LVs6sVQGpzhS5Dg\nSIjl0ndM9vcpFNiute6OgIqysQKBgQDdnc9LkKgRayNp81xS6Zf9Yzh5nL3bsuBB\njelJ9V/R6a05kYthPHmDXcYLLeUyTwIa1FgdkvkmpOuH+Kt3AnncdsTQvNIQ68nA\nY/BtnKyk7rGKggp8MR2haBNdPvrmFS4SlvcKqAq9TlMPwnlPyxNV4WbWNGJUEIQ6\ncnkH1AaauQKBgE4TPUUmGd+GW4yO/N3WQQlvrEAqVyONNhLHQqD1A+1sHuvRukV3\n5ve0W6H0IOCYhx3mhpfGK+748VcikV3Ld9uM5gYPP4abgUY/AD21ILQUcl/xB7uJ\nJVvckGerjiLGJWOzrByF9an/DZ9RBZSWIeh7j4GnGHCFbuM13n6LxSShAoGAIv0m\nXEzTbCSZK8IjYmfE+llu8ixgAU7FfzQTj/ywiyi0k7E56zksCiSE/wDY/c9hirDZ\n1Jl+wq4pDYeiMqDucnNB8Z7OH6PKb5iXvgaNb2DMIQ0U8LSkc/ZFkGRAIpFXe9Hf\n4QvU3jx+eq9+ja2HOPjkTo9ostMEvWGTYDwGaukCgYAooU0vUlSoQsDt1InCJvg4\nWFR/AD82HPW6GZzsbIALylMlrfZRz7vVlLNt1hvm/8DPWie2GNqafyo4hMaJYnan\n+Q51N+CFjRlNq0kg2NSYQKm/XbuV2N/T9lOMjWdg/28Vu9s/aGn5WWsbqLyL4Y02\nGhz9N/7iyBtD2gBmt5z7vA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "iniad-sinage@iniad-sinage.iam.gserviceaccount.com",
+  "client_id": "101516491037259968963",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iniad-sinage%40iniad-sinage.iam.gserviceaccount.com"
+}
